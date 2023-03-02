@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlanTest</string>
+    <string name="button_info">Smash it!!</string>
+    <string name="user_input">Name</string>
+    <string name="enter_name">Press the blue hover button to start the conversation</string>
+    <string name="love_message_show">Love Message</string>
+    <string name="memories">Memories</string>
+</resources>
